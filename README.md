@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GuilhermeFellix
+- 👀 I’m interested in Data Science and Data Analysis
+- 🌱 I’m currently learning SQL and Qlik Sense
+- 💞️ I’m looking to collaborate on Data Analysis problems, specially about costs analysis, BI topics and classification models.
+- 📫 How to reach me? Check Out my linkedin https://www.linkedin.com/in/guilherme-morete-felix
